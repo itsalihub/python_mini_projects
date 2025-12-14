@@ -14,7 +14,7 @@ Each project focuses on a specific programming concept and helps build a solid f
 
 ## 📂 Included Projects
 
-### 🔹 Face Recognition (Basic)
+### 🔹 Face Recognition 
 - Introduction to computer vision concepts
 - Working with images and simple face detection
 - Understanding how external libraries can be used in Python projects
