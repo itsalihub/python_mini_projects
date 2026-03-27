@@ -19,7 +19,7 @@ Each project focuses on a specific programming concept and helps build a solid f
 - Working with images and simple face detection
 - Understanding how external libraries can be used in Python projects
 
-*(Educational purpose project)*
+
 
 ---
 
